@@ -1,2 +1,8 @@
-# PublicWork
-Public work notes
+---
+share: true
+path: /
+---
+
+# README
+test
+olknsclnsdlkcn
