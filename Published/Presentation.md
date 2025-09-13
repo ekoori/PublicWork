@@ -59,6 +59,18 @@
 
 ---
 
+# "Filling the Vessels" in Yoga
+
+- Kabbalah: Or (Divine light) filling rectified kelim after tikkun.
+- Closest parallel: prana saturating purified nadis/chakras (Hatha/Tantra).
+- Patanjali emphasis: citta stillness; clarified buddhi lit by ritambhara prajna (I.47–I.48).
+- Ojas/tejas/sattva: conserved/refined vitality pervades the system via tapas and brahmacarya.
+- Dharma-megha samadhi (IV.29–IV.31): cloud of dharma "rains" knowledge; afflictions cease.
+- Bhakti stream: Isvara-pranidhana and grace "filling" the heart.
+- Caution: Different ontologies; strongest parallels in Hatha/Tantra rather than strict classical Yoga.
+
+---
+
 # Obstacles & Purification
 
 - Kleshas (Avidya, Asmita, Raga, Dvesha, Abhinivesha): Root ignorance and ego-clinging ↔ Yetzer hara, selfing, attachment; klipot obscuring light.
@@ -139,4 +151,3 @@
 - Shared Pattern: Contraction, alignment, sustained attention, ethical refinement, absorption.
 - Distinct Ends: Liberation into the seer’s nature vs. union and repair of Divine presence.
 - Actionable Path: Small, consistent practices that calm the mind and brighten the vessel.
-
