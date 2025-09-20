@@ -1,3 +1,8 @@
+
+# Presentation
+new
+
+
 # Opening Thesis
 
 - Aim: Present two contemplative maps—Patanjali’s Yoga Sutras and Kabbalah—as complementary lenses on reality, practice, and transformation.
