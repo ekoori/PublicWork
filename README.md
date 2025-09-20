@@ -1,5 +1,5 @@
 
 # README
-Go to [[./Published/Presentation on Comparison KabbalaYoga|Preso]]
+Go to [Presentation](./Published/Presentation%2520on%2520Comparison%2520KabbalaYoga.md#)
 
 
