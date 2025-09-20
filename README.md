@@ -1,2 +1,5 @@
+
 # README
-Go to [Presentation](./Published/Presentation%2520on%2520Comparison%2520KabbalaYoga.md#)
+Go to [Presentation](Published/Presentation%20on%20Comparison%20KabbalaYoga.md)
+
+
